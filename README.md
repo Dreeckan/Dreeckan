@@ -1,85 +1,48 @@
-# Bienvenue, moi c'est Rémi 👋
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreeckan" alt="dreeckan" /></a> </p>
+# Bonjour, moi c'est Rémi, alias Dreeckan 👋
 
 - 📫 Contactez-moi sur **remi@drakona.fr**
-- 🔭 Je travaille sur des projets clients en Symfony
-- 🌱 J'apprends VueJS et Quasar
+
+[![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Me retrouver
-<p align="left">
-  <a href="https://www.youtube.com/c/drakolab" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="drakolab" height="30" width="40" />
-  </a>
-</p>
+
+[![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=F00)](https://www.youtube.com/channel/UCrGGUUH2FgqqW3MbfTQbBxw/)
+[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Drakolab-yt/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
 
 ## Languages et outils
 
-<a href="https://symfony.com" target="_blank" rel="noreferrer">
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-</a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-<a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> 
-</a> 
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
+[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
+[![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
+[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+
+
+[![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
+
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
+[![KDE](https://img.shields.io/badge/-KDE-000?&logo=KDE&logoColor=FFF)](https://kde.org/)
+[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab&logoColor=FC6D26)](https://www.gitlab.com/)
+
 
 ## En apprentissage / perfectionnement
 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a> 
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
+[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
+[![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
 
 ## Quelques stats
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreeckan&show_icons=true&locale=en" alt="dreeckan" />
-</p>
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=dreeckan&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreeckan&" alt="dreeckan" />
-</p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dreeckan&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
