@@ -1,8 +1,6 @@
 # Bonjour, moi c'est Rémi, alias Dreeckan 👋
 
-![Badge certification Symfony 8](https://connect.symfony.com/uploads/badges/454343f0-3cba-4e60-a65f-cf62d085c2ca/aee4fb41-9390-4290-8f7f-305059e57fef.png)
-
-Développeur Symfony certifié (version 8)
+![Badge certification Symfony 8](https://connect.symfony.com/uploads/badges/454343f0-3cba-4e60-a65f-cf62d085c2ca/aee4fb41-9390-4290-8f7f-305059e57fef.png) Développeur Symfony certifié (version 8), pratiquant le framework depuis 2011.
 
 - 📫 Contactez-moi sur **bonjour@remij.dev**
 
