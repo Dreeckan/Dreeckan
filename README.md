@@ -6,7 +6,10 @@
 
 ## Me retrouver
 
+[Site Web](https://www.remij.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
+[Symfony](https://connect.symfony.com/profile/remij-dev)
+
 
 ## Languages et outils
 
